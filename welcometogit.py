@@ -4,4 +4,6 @@ managed to make it here! Then, follow \
 the instructions to commit the change to your repository. And continue \
 with the rest of the tutorial.")
 
+print("Hi, My name is Robbert Schmit and I finally made it here")
+
 print("Neha Gupta (aka the TA) was here")
